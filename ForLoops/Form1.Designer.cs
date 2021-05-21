@@ -138,7 +138,7 @@ namespace ForLoops
             this.q6Output.ForeColor = System.Drawing.Color.Black;
             this.q6Output.Location = new System.Drawing.Point(151, 283);
             this.q6Output.Name = "q6Output";
-            this.q6Output.Size = new System.Drawing.Size(117, 108);
+            this.q6Output.Size = new System.Drawing.Size(117, 135);
             this.q6Output.TabIndex = 48;
             this.q6Output.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
